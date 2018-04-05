@@ -1,0 +1,5 @@
+Enter a number between 1 and 5.
+This is the number of frames to return.
+
+The program will create a range of frames using words.
+The gaps are filled with stars.

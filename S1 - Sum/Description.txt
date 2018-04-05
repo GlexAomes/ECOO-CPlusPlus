@@ -1,0 +1,5 @@
+Enter a number between 1 to 100,000.
+This number is how many numbers to sum.
+After the last number is entered, the sum is returned.
+
+Expecting no exception handling.
